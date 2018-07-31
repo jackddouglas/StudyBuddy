@@ -1,25 +1,28 @@
 //
-//  ViewController.swift
+//  WelcomeViewController.swift
 //  StudyBuddy
 //
-//  Created by Jack Douglas on 7/26/18.
+//  Created by Jack Douglas on 7/31/18.
 //  Copyright © 2018 Jack D. Douglas. All rights reserved.
+//
+//  This is the welcome view controller - the first thing the user sees
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+
+
+class WelcomeViewController: UIViewController {
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
 
-
 }
-
